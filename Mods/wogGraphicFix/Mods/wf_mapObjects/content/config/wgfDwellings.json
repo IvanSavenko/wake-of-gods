@@ -2,7 +2,6 @@
 	"core:creatureGeneratorCommon" : {
 		"types" : {
 			"vastCavern" : {
-				"name" : "Vast Cavern",
 				"templates" : {
 					"rockCavern" : {
 						"animation" : "dwellings/zavg172a",
@@ -20,7 +19,6 @@
 			},
 			
 			"hellRift" : {
-				"name" : "Hell Rift",
 				"templates" : {
 					"small" : {
 						"animation" : "dwellings/zavg195b",
@@ -30,7 +28,6 @@
 			},
 			
 			"cyclopsCave": {
-				"name" : "Cyclops Cave",
 				"templates" : {
 					"rough" : {
 						"animation" : "dwellings/AVGcycl1",
@@ -41,7 +38,6 @@
 			},
 			
 			"behemothCrag": {
-				"name" : "Behemot Crag",
 				"templates" : {
 					"rough" : {
 						"animation" : "dwellings/avgbhmt1",

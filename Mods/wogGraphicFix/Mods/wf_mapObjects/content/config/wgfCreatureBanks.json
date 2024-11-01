@@ -3,7 +3,6 @@
 		"types" : {
 			"martialSpiritPalace" :
 			{
-				"name" : "Palace of Martial Spirit",
 				"templates" : {
 					"small" : {
 						"animation" : "creatureBanks/WGgod1.def",
@@ -14,7 +13,6 @@
 			},
 			"pacificationCitadel" :
 			{
-				"name" : "Citadel of Pacification",
 				"templates" : {
 					"small" : {
 						"animation" : "creatureBanks/WGgod2.def",
@@ -25,7 +23,6 @@
 			},
 			"magiciansMonastery" :
 			{
-				"name" : "Monastery of Magicians",
 				"templates" : {
 					"small" : {
 						"animation" : "creatureBanks/WGgod3.def",
@@ -36,7 +33,6 @@
 			},
 			"legendsLibrary" :
 			{
-				"name" : "Library of Legends",
 				"templates" : {
 					"small" : {
 						"animation" : "creatureBanks/WGgod4.def",
